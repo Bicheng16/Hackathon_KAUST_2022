@@ -1,6 +1,8 @@
-# Hackathon_KAUST_2022
+# Welcome to the 2022 Hackathon at KAUST
 
-Project Description
+We are pleased to announce that King Abdullah University of Science and Technology (KAUST) will host its first virtual Hackathon in spring 2022, with the goal of tackling together some exciting and challenging problems in the area of geoscience and energy engineering. Students studying in STEM majors are encouraged to participate in this event. Candidates will be screened by their technical competence, and further grouped into teams. Each team will be provided with a problem statement and an associated dataset, and tasked to propose a machine learning /deep learning-based solution.
+
+Below are the project description for the projects.
 
 ### SeismicHunt
 The Earth is filled with an invaluable amount of resources that power our daily lives. Natural gas, for example, is going to play a key role in the energy transition as its use is required to produce blue hydrogen. Nevertheless finding such resources is hard and geoscientists play a constant treasure hunt when interpreting seismic data. We wish therefore to devise an artificially intelligent tool that provided with a large set of unlabeled seismic pre-stack data and a small labeled dataset can detect residual gas accumulation in the subsurface (and possibly their shape and saturation).
